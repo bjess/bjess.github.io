@@ -1,9 +1,20 @@
 # Project Samples
 [C# Project]() 
 
-### About Me
+### Education
 
-#### Contact 
+### Experience
+
+
+### Skills
+
+
+### Achievements
+
+
+### Relevant Courses
+
+#### Contact (Phone, Email, GitHub and Linkedin)
 
 
 
