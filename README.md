@@ -17,13 +17,23 @@ BS Computer Engineering: Universidad Dr. Rafael Belloso Chacin
 Architecture: Universidad del Zulia
 
 ### Experience
+Medical Interpreter
 
+Instructor
+
+Web Developer
 
 ### Skills
 
 
 ### Achievements
+Dean's List. Harvard University. Division of Continuing Education (2019)
 
+President’s Award for Teaching Excellence 1st Place – Liberty University (2014)
+
+Employee of the Month – Liberty University (2012)
+
+Sailor of the Quarter – HSL-40 – US Navy (2004)
 
 ### Relevant Courses
 
