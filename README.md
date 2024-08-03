@@ -40,7 +40,8 @@ Dean's List. Miami Dade College (2003)
 ### Relevant Courses
 Strategic Planning / Advanced Data Analysis and Machine Learning / Numerical Methods / 
 
-#### Contact ( Phone: 434-609-2660, Email: jessil@alumni.harvard.edu, [GitHub](https://github.com/bjess) and [LinkedIn](https://www.linkedin.com/in/jessil-fuhr/) )
+#### Contact 
+(Phone: 434-609-2660, Email: jessil@alumni.harvard.edu, [GitHub](https://github.com/bjess) and [LinkedIn](https://www.linkedin.com/in/jessil-fuhr/))
 
 
 
