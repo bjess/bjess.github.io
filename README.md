@@ -6,9 +6,9 @@ Ph.D Engineering Student (69 credits): Liberty University. Lynchburg, VA
 
 Master of Liberal Arts - Digital Media Design: Harvard University. Division of Continuing Education.
 
-Master of Divinity - Specialization Pastoral Counseling: Liberty University
+Master of Divinity - Counseling: Liberty University
 
-Master of Science - Specialization Spanish Language Education: NOVA University
+Master of Science - Spanish Language Education: NOVA University
 
 Master of Arts in Religion - Specialization in Counseling: Liberty University
 
