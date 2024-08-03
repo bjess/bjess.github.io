@@ -8,7 +8,7 @@ Master of Liberal Arts - Digital Media Design: Harvard University. Division of C
 
 Master of Divinity - Counseling: Liberty University
 
-Master of Science - Spanish Language Education: NOVA University
+Master of Science - Spanish Language Education: NOVA Southeastern University
 
 Master of Arts in Religion - Specialization in Counseling: Liberty University
 
