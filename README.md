@@ -9,9 +9,11 @@ Master of Liberal Arts - Digital Media Design: Harvard University. Division of C
 Master of Divinity - Specialization Pastoral Counseling: Liberty University
 
 Master of Science - Specialization Spanish Language Education: NOVA University
+
 Master of Arts in Religion - Specialization in Counseling: Liberty University
 
 BS Computer Engineering: Universidad Dr. Rafael Belloso Chacin
+
 Architecture: Universidad del Zulia
 
 ### Experience
