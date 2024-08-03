@@ -35,8 +35,10 @@ Employee of the Month – Liberty University (2012)
 
 Sailor of the Quarter – HSL-40 – US Navy (2004)
 
-### Relevant Courses
+Dean's List. Miami Dade College (2003)
 
+### Relevant Courses
+Strategic Planning / Advanced Data Analysis and Machine Learning / Numerical Methods / 
 #### Contact (Phone, Email, GitHub and Linkedin)
 
 
