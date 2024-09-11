@@ -17,6 +17,8 @@ BS Computer Engineering: Universidad Dr. Rafael Belloso Chacin
 Architecture: Universidad del Zulia
 
 ### Experience
+Service Manager
+
 Medical Interpreter
 
 Instructor
