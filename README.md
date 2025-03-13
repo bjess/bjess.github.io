@@ -25,9 +25,6 @@ Instructor
 
 Web Developer
 
-### Skills
-
-
 ### Achievements
 Dean's List. Harvard University. Division of Continuing Education (2019)
 
