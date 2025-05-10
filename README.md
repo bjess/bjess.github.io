@@ -1,6 +1,3 @@
-# Project Samples
-[C# Project]
-
 ### Education
 Ph.D Engineering Student (69 credits): Liberty University. Lynchburg, VA
 
@@ -37,7 +34,7 @@ Sailor of the Quarter – HSL-40 – US Navy (2004)
 Dean's List. Miami Dade College (2003)
 
 ### Relevant Courses
-Strategic Planning / Advanced Data Analysis and Machine Learning / Numerical Methods / 
+Strategic Planning / Advanced Data Analysis and Machine Learning / Numerical Methods 
 
 #### Contact 
 (Phone: 434-609-2660, Email: jessil@alumni.harvard.edu, [GitHub](https://github.com/bjess) and [LinkedIn](https://www.linkedin.com/in/jessil-fuhr/))
