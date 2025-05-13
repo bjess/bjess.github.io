@@ -33,6 +33,9 @@ Sailor of the Quarter – HSL-40 – US Navy (2004)
 
 Dean's List. Miami Dade College (2003)
 
+### Certifications
+CompTIA Security+ / Google Project Management / Google Cybersecurity 
+
 ### Relevant Courses
 Strategic Planning / Advanced Data Analysis and Machine Learning / Numerical Methods 
 
