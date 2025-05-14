@@ -34,10 +34,16 @@ Sailor of the Quarter – HSL-40 – US Navy (2004)
 Dean's List. Miami Dade College (2003)
 
 ### Certifications
-CompTIA Security+ / Google Project Management / Google Cybersecurity / AZ900 - Microsoft Certified: Azure Fundamentals / MS900 - Microsoft 365 Certified: Fundamentals 
+CompTIA Security+ 
+Google Project Management 
+Google Cybersecurity 
+AZ900 - Microsoft Certified: Azure Fundamentals 
+MS900 - Microsoft 365 Certified: Fundamentals 
 
 ### Relevant Courses
-Strategic Planning / Advanced Data Analysis and Machine Learning / Numerical Methods 
+Strategic Planning 
+Advanced Data Analysis and Machine Learning 
+Numerical Methods 
 
 #### Contact 
 (Phone: 434-609-2660, Email: jessil@alumni.harvard.edu, [GitHub](https://github.com/bjess) and [LinkedIn](https://www.linkedin.com/in/jessil-fuhr/))
