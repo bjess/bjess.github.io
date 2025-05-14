@@ -35,14 +35,20 @@ Dean's List. Miami Dade College (2003)
 
 ### Certifications
 CompTIA Security+ 
+
 Google Project Management 
+
 Google Cybersecurity 
+
 AZ900 - Microsoft Certified: Azure Fundamentals 
+
 MS900 - Microsoft 365 Certified: Fundamentals 
 
 ### Relevant Courses
 Strategic Planning 
+
 Advanced Data Analysis and Machine Learning 
+
 Numerical Methods 
 
 #### Contact 
