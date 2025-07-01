@@ -51,16 +51,16 @@ Advanced Data Analysis and Machine Learning
 
 Numerical Methods 
 
-#### Personality Assessments 
+### Personality Assessments 
 
-### Enneagram Type Indicator
+#### Enneagram Type Indicator
 Type 9, The Peacemaker - Easygoing, Receptive, and Agreeable
 
 Type 6, The Loyalist - Committed, Engaging, Responsible
 
 Type 3, The Achiever - Adaptive, Efficient, Driven
 
-### Gallup - CliftonStrengths
+#### Gallup - CliftonStrengths
 
 1. Responsibility
 
@@ -72,12 +72,12 @@ Type 3, The Achiever - Adaptive, Efficient, Driven
 
 5. Focus
 
-### DISC Personality Model
+#### DISC Personality Model
 
 S - Steady Specialist
 C/I/S - Competent/Influencing/Specialist
 
-### Myers-Briggs Type Indicator
+#### Myers-Briggs Type Indicator
 
 Introversion | Sensing | Feeling | Judging
 ISFJs have a realistic, practical respect for facts
@@ -88,7 +88,7 @@ and committed to creating a harmonious environment.
 They value home, family, health, and spirituality.
 
 
-#### Contact 
+### Contact 
 (Phone: 434-609-2660, Email: jessil@alumni.harvard.edu, [GitHub](https://github.com/bjess) and [LinkedIn](https://www.linkedin.com/in/jessil-fuhr/))
 
 
