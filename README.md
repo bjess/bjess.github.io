@@ -44,6 +44,8 @@ AZ900 - Microsoft Certified: Azure Fundamentals
 
 MS900 - Microsoft 365 Certified: Fundamentals 
 
+Six Sigma Green Belt
+
 ### Relevant Courses
 Strategic Planning 
 
