@@ -1,77 +1,58 @@
 ### Education
+
 Ph.D Engineering Student (69 credits): Liberty University. Lynchburg, VA
-
 Master of Liberal Arts - Digital Media Design: Harvard University. Division of Continuing Education.
-
 Master of Divinity - Counseling: Liberty University
-
 Master of Science - Spanish Language Education: NOVA Southeastern University
-
 Master of Arts in Religion - Specialization in Counseling: Liberty University
-
 BS Computer Engineering: Universidad Dr. Rafael Belloso Chacin
-
 Architecture: Universidad del Zulia
 
 ### Experience
+
+Birth Registrar
 Service Manager
-
 Medical Interpreter
-
 Instructor
-
 Web Developer
 
 ### Achievements
+
 Dean's List. Harvard University. Division of Continuing Education (2019)
-
 President’s Award for Teaching Excellence 1st Place – Liberty University (2014)
-
 Employee of the Month – Liberty University (2012)
-
 Sailor of the Quarter – HSL-40 – US Navy (2004)
-
 Dean's List. Miami Dade College (2003)
 
 ### Certifications
+
 CompTIA Security+ 
-
 Google Project Management 
-
 Google Cybersecurity 
-
 AZ900 - Microsoft Certified: Azure Fundamentals 
-
 MS900 - Microsoft 365 Certified: Fundamentals 
-
 Six Sigma Green Belt
 
 ### Relevant Courses
+
 Strategic Planning 
-
 Advanced Data Analysis and Machine Learning 
-
 Numerical Methods 
 
 ### Personality Assessments 
 
 #### Enneagram Type Indicator
+
 Type 9, The Peacemaker - Easygoing, Receptive, and Agreeable
-
 Type 6, The Loyalist - Committed, Engaging, Responsible
-
 Type 3, The Achiever - Adaptive, Efficient, Driven
 
 #### Gallup - CliftonStrengths
 
 1. Responsibility
-
 2. Discipline
-
 3. Empathy
-
 4. Learner
-
 5. Focus
 
 #### DISC Personality Model
