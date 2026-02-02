@@ -71,6 +71,11 @@ and committed to creating a harmonious environment.
 They value home, family, health, and spirituality.
 
 
+#### Recommendations
+
+“Mrs. Fuhr serves as the Instructional Mentor for our LUO/SOR bilingual teachers. She has been highly involved in the hiring of these teachers, interviewing each separately to ensure his or her fluency in Spanish. She has also worked with the translation of course materials into Spanish for the program. Mrs. Fuhr is extremely conscientious in the fulfillment of her responsibilities both as a leader and as an instructor in the bilingual program. She gives leadership to her IM team members and encourages them to comply with the University’s standards and to strive for excellence. She, herself, is a great model for her team members, always cheerfully complying with whatever is asked of her and eager to do more than just what is expected. She is the well-deserved recipient of the 2014 President's Award for Teaching Excellence (online, undergraduate).” Dr. Ed Hindson
+
+
 ### Contact 
 (Phone: 434-609-2660, Email: jessil@alumni.harvard.edu, [GitHub](https://github.com/bjess) and [LinkedIn](https://www.linkedin.com/in/jessil-fuhr/))
 
