@@ -71,9 +71,13 @@ and committed to creating a harmonious environment.
 They value home, family, health, and spirituality.
 
 
-#### Recommendations
+#### Recommendation as Instructional Mentor
 
-“Mrs. Fuhr serves as the Instructional Mentor for our LUO/SOR bilingual teachers. She has been highly involved in the hiring of these teachers, interviewing each separately to ensure his or her fluency in Spanish. She has also worked with the translation of course materials into Spanish for the program. Mrs. Fuhr is extremely conscientious in the fulfillment of her responsibilities both as a leader and as an instructor in the bilingual program. She gives leadership to her IM team members and encourages them to comply with the University’s standards and to strive for excellence. She, herself, is a great model for her team members, always cheerfully complying with whatever is asked of her and eager to do more than just what is expected. She is the well-deserved recipient of the 2014 President's Award for Teaching Excellence (online, undergraduate).” Dr. Ed Hindson
+“Mrs. Fuhr serves as the Instructional Mentor for our LUO/SOR bilingual teachers. She has been highly involved in the hiring of these teachers, interviewing each separately to ensure his or her fluency in Spanish. She has also worked with the translation of course materials into Spanish for the program. Mrs. Fuhr is extremely conscientious in the fulfillment of her responsibilities both as a leader and as an instructor in the bilingual program. She gives leadership to her IM team members and encourages them to comply with the University’s standards and to strive for excellence. She, herself, is a great model for her team members, always cheerfully complying with whatever is asked of her and eager to do more than just what is expected. She is the well-deserved recipient of the 2014 President's Award for Teaching Excellence (online, undergraduate).” Dr. Ed Hindson 2014
+
+#### Recommendation as Instructor
+
+"Jessil not only embraces the Liberty brand, but she is a diligent and conscientious educator. She is timely with her grading and correspondence efforts. She exemplifies a great desire to serve her students with compassion and she also maintains clear academic standards and a respect for the policies and procedures of the university. She is intentional to create an active sense of presence in the classroom and maintains a posture of enthusiasm and professionalism in all she does. She is an excellent online instructor and remains a valuable team member." Dr. Clausia Dempsey
 
 
 ### Contact 
