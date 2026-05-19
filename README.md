@@ -110,7 +110,7 @@ They value home, family, health, and spirituality.
 
 
 ### Contact 
-(Phone: 434-609-2660, Email: jessil@alumni.harvard.edu, [GitHub](https://github.com/bjess) and [LinkedIn](https://www.linkedin.com/in/jessil-fuhr/))
+(Phone: 434-609-2660, Email: jessil@alumni.harvard.edu, [GitHub](https://github.com/bjess)
 
 
 
