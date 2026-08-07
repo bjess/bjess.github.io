@@ -114,5 +114,3 @@ Dr. Claudia Dempsey
 ### Contact 
 Phone: 434-609-2660, Email: jessil@alumni.harvard.edu, [GitHub](https://github.com/bjess)
 
-$${\color{red}. \space . \space . \space .}$$
-
