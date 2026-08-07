@@ -1,7 +1,7 @@
 ### Education
 
 Ph.D Engineering Student (69 credits): Liberty University. Lynchburg, VA
-
+$${\color{red}This \space text \space is \space red}$$
 Master of Liberal Arts - Digital Media Design: Harvard University. Division of Continuing Education.
 
 Master of Divinity - Counseling: Liberty University
